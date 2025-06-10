@@ -218,3 +218,7 @@ if st.session_state.carrinho:
         st.info("Seu carrinho está vazio.")
 else:
     st.info("Seu carrinho está vazio.")
+
+
+st.header("Envie o csv nesse email abaixo: ")
+st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
