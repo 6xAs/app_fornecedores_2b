@@ -1,0 +1,501 @@
+Categoria,Nome do Produto,Descrição,Estoque Disponível,Preço Unitário (R$),Preço em USD ($),Imposto de Importação (%),ICMS (%),IPI (%),PIS (%),COFINS (%),Total de Impostos (%),Preço Final c/ Impostos (R$)
+Processador,Processador Intel Core i3 Gamer,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,21.0,2631.26,515.93,0.0,0.0,0.0,0.0,0.0,0.0,3769.28
+Processador,Processador Intel Core i3 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,100.0,291.14,57.09,0.0,0.0,0.0,0.0,0.0,0.0,417.06
+Processador,Processador Intel Core i3 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,56.0,3376.87,662.13,0.0,0.0,0.0,0.0,0.0,0.0,4837.37
+Processador,Processador Intel Core i5 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,56.0,826.28,162.02,0.0,0.0,0.0,0.0,0.0,0.0,1183.65
+Processador,Processador Intel Core i5 Plus,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,48.0,3304.14,647.87,0.0,0.0,0.0,0.0,0.0,0.0,4733.18
+Processador,Processador Intel Core i5 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,67.0,4980.19,976.51,0.0,0.0,0.0,0.0,0.0,0.0,7134.12
+Processador,Processador Intel Core i7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,26.0,4109.85,805.85,0.0,0.0,0.0,0.0,0.0,0.0,5887.36
+Processador,Processador Intel Core i7 Pro,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,85.0,4057.68,795.62,0.0,0.0,0.0,0.0,0.0,0.0,5812.63
+Processador,Processador Intel Core i7 Plus,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,78.0,2049.14,401.79,0.0,0.0,0.0,0.0,0.0,0.0,2935.39
+Processador,Processador Intel Core i9 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Processador,Processador Intel Core i9 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,86.0,671.97,131.76,0.0,0.0,0.0,0.0,0.0,0.0,962.6
+Processador,Processador Intel Core i9 Pro,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,64.0,4656.4,913.02,0.0,0.0,0.0,0.0,0.0,0.0,6670.29
+Processador,Processador Intel Core i9,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,97.0,4576.74,897.4,0.0,0.0,0.0,0.0,0.0,0.0,6556.18
+Processador,Processador AMD Ryzen 3 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,72.0,1913.22,375.14,0.0,0.0,0.0,0.0,0.0,0.0,2740.69
+Processador,Processador AMD Ryzen 3 Plus,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,24.0,3252.39,637.72,0.0,0.0,0.0,0.0,0.0,0.0,4659.05
+Processador,Processador AMD Ryzen 3 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,35.0,1182.48,231.86,0.0,0.0,0.0,0.0,0.0,0.0,1693.9
+Processador,Processador AMD Ryzen 5 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,92.0,1566.26,307.11,0.0,0.0,0.0,0.0,0.0,0.0,2243.67
+Processador,Processador AMD Ryzen 5,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,73.0,911.59,178.74,0.0,0.0,0.0,0.0,0.0,0.0,1305.85
+Processador,Processador AMD Ryzen 5 Pro,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,70.0,614.62,120.51,0.0,0.0,0.0,0.0,0.0,0.0,880.44
+Processador,Processador AMD Ryzen 5 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,19.0,295.89,58.02,0.0,0.0,0.0,0.0,0.0,0.0,423.86
+Processador,Processador AMD Ryzen 7 Gamer,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,79.0,3035.56,595.21,0.0,0.0,0.0,0.0,0.0,0.0,4348.44
+Processador,Processador AMD Ryzen 7 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,54.0,3676.52,720.89,0.0,0.0,0.0,0.0,0.0,0.0,5266.61
+Processador,Processador AMD Ryzen 9 Plus,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,42.0,1191.02,233.53,0.0,0.0,0.0,0.0,0.0,0.0,1706.14
+Processador,Processador AMD Ryzen 9 Lite,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,57.0,2890.95,566.85,0.0,0.0,0.0,0.0,0.0,0.0,4141.29
+Processador,Processador AMD Ryzen 9 Edition,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,61.0,1873.28,367.31,0.0,0.0,0.0,0.0,0.0,0.0,2683.47
+Processador,Processador AMD Ryzen 9 Pro,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,16.0,4342.18,851.41,0.0,0.0,0.0,0.0,0.0,0.0,6220.17
+Placa-Mãe,Placa-Mãe ASUS Lite,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,11.0,487.82,95.65,0.0,0.0,0.0,0.0,0.0,0.0,698.8
+Placa-Mãe,Placa-Mãe ASUS Lite,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,30.0,723.66,141.89,0.0,0.0,0.0,0.0,0.0,0.0,1036.64
+Placa-Mãe,Placa-Mãe ASUS Pro,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,88.0,4084.96,800.97,0.0,0.0,0.0,0.0,0.0,0.0,5851.71
+Placa-Mãe,Placa-Mãe Gigabyte Edition,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,63.0,4628.97,907.64,0.0,0.0,0.0,0.0,0.0,0.0,6631.0
+Placa-Mãe,Placa-Mãe Gigabyte Lite,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,24.0,2812.17,551.41,0.0,0.0,0.0,0.0,0.0,0.0,4028.43
+Placa-Mãe,Placa-Mãe MSI,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,44.0,1363.75,267.4,0.0,0.0,0.0,0.0,0.0,0.0,1953.57
+Placa-Mãe,Placa-Mãe MSI Plus,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,93.0,693.51,135.98,0.0,0.0,0.0,0.0,0.0,0.0,993.45
+Placa-Mãe,Placa-Mãe ASRock Lite,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,50.0,3254.88,638.21,0.0,0.0,0.0,0.0,0.0,0.0,4662.62
+Placa-Mãe,Placa-Mãe ASRock Edition,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,88.0,1025.35,201.05,0.0,0.0,0.0,0.0,0.0,0.0,1468.81
+Placa-Mãe,Placa-Mãe ASRock Pro,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,55.0,1034.49,202.84,0.0,0.0,0.0,0.0,0.0,0.0,1481.91
+Placa-Mãe,Placa-Mãe ASRock Pro,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,35.0,2002.79,392.7,0.0,0.0,0.0,0.0,0.0,0.0,2869.0
+Placa-Mãe,Placa-Mãe Biostar Edition,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,47.0,3965.59,777.57,0.0,0.0,0.0,0.0,0.0,0.0,5680.71
+Placa-Mãe,Placa-Mãe Biostar Edition,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,33.0,3576.17,701.21,0.0,0.0,0.0,0.0,0.0,0.0,5122.86
+Placa-Mãe,Placa-Mãe Biostar Gamer,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,38.0,3346.88,656.25,0.0,0.0,0.0,0.0,0.0,0.0,4794.41
+Placa-Mãe,Placa-Mãe Biostar Pro,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Memória RAM,Memória RAM Kingston Pro,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,82.0,2864.25,561.62,0.0,0.0,0.0,0.0,0.0,0.0,4103.04
+Memória RAM,Memória RAM Kingston Plus,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,52.0,1322.23,259.26,0.0,0.0,0.0,0.0,0.0,0.0,1894.09
+Memória RAM,Memória RAM Corsair Gamer,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Memória RAM,Memória RAM Corsair Gamer,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,47.0,4511.14,884.54,0.0,0.0,0.0,0.0,0.0,0.0,6462.21
+Memória RAM,Memória RAM Corsair Pro,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,82.0,1006.63,197.38,0.0,0.0,0.0,0.0,0.0,0.0,1442.0
+Memória RAM,Memória RAM Corsair Pro,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,13.0,4087.87,801.54,0.0,0.0,0.0,0.0,0.0,0.0,5855.87
+Memória RAM,Memória RAM G.Skill Pro,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,60.0,996.37,195.37,0.0,0.0,0.0,0.0,0.0,0.0,1427.3
+Memória RAM,Memória RAM G.Skill Gamer,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,26.0,3128.06,613.35,0.0,0.0,0.0,0.0,0.0,0.0,4480.95
+Memória RAM,Memória RAM G.Skill Lite,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,75.0,231.97,45.48,0.0,0.0,0.0,0.0,0.0,0.0,332.3
+Memória RAM,Memória RAM G.Skill Gamer,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,83.0,1253.32,245.75,0.0,0.0,0.0,0.0,0.0,0.0,1795.38
+Memória RAM,Memória RAM Crucial Gamer,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,95.0,3688.18,723.17,0.0,0.0,0.0,0.0,0.0,0.0,5283.32
+Memória RAM,Memória RAM Crucial Plus,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,55.0,914.3,179.27,0.0,0.0,0.0,0.0,0.0,0.0,1309.73
+Memória RAM,Memória RAM ADATA Edition,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,94.0,1206.74,236.62,0.0,0.0,0.0,0.0,0.0,0.0,1728.66
+Memória RAM,Memória RAM ADATA,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,57.0,1522.84,298.6,0.0,0.0,0.0,0.0,0.0,0.0,2181.47
+Memória RAM,Memória RAM ADATA Gamer,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,86.0,2472.07,484.72,0.0,0.0,0.0,0.0,0.0,0.0,3541.24
+Memória RAM,Memória RAM ADATA Edition,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,15.0,513.75,100.74,0.0,0.0,0.0,0.0,0.0,0.0,735.95
+Armazenamento,Armazenamento Kingston SSD Lite,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,26.0,113.39,22.23,0.0,0.0,0.0,0.0,0.0,0.0,162.43
+Armazenamento,Armazenamento Kingston SSD Pro,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,64.0,4795.27,940.25,0.0,0.0,0.0,0.0,0.0,0.0,6869.22
+Armazenamento,Armazenamento Kingston SSD Plus,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,81.0,191.55,37.56,0.0,0.0,0.0,0.0,0.0,0.0,274.4
+Armazenamento,Armazenamento Kingston SSD,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,58.0,3869.24,758.67,0.0,0.0,0.0,0.0,0.0,0.0,5542.69
+Armazenamento,Armazenamento WD SSD Pro,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,20.0,3882.49,761.27,0.0,0.0,0.0,0.0,0.0,0.0,5561.67
+Armazenamento,Armazenamento WD SSD Edition,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,44.0,3413.41,669.3,0.0,0.0,0.0,0.0,0.0,0.0,4889.71
+Armazenamento,Armazenamento WD SSD Gamer,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,29.0,941.57,184.62,0.0,0.0,0.0,0.0,0.0,0.0,1348.8
+Armazenamento,Armazenamento WD SSD,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,73.0,1348.49,264.41,0.0,0.0,0.0,0.0,0.0,0.0,1931.71
+Armazenamento,Armazenamento Samsung SSD Edition,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Armazenamento,Armazenamento Samsung SSD Pro,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,46.0,4346.98,852.35,0.0,0.0,0.0,0.0,0.0,0.0,6227.05
+Armazenamento,Armazenamento Samsung SSD Lite,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,36.0,945.24,185.34,0.0,0.0,0.0,0.0,0.0,0.0,1354.06
+Armazenamento,Armazenamento Crucial SSD Gamer,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,68.0,654.38,128.31,0.0,0.0,0.0,0.0,0.0,0.0,937.4
+Armazenamento,Armazenamento Crucial SSD Edition,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,16.0,1527.64,299.54,0.0,0.0,0.0,0.0,0.0,0.0,2188.34
+Armazenamento,Armazenamento Crucial SSD Pro,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,43.0,2913.61,571.3,0.0,0.0,0.0,0.0,0.0,0.0,4173.75
+Armazenamento,Armazenamento Crucial SSD Edition,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,79.0,1271.72,249.36,0.0,0.0,0.0,0.0,0.0,0.0,1821.74
+Armazenamento,Armazenamento Seagate HDD Lite,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,100.0,1895.96,371.76,0.0,0.0,0.0,0.0,0.0,0.0,2715.96
+Armazenamento,Armazenamento Seagate HDD,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2069.01,405.69,0.0,0.0,0.0,0.0,0.0,0.0,2963.86
+Armazenamento,Armazenamento Seagate HDD Gamer,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,98.0,4494.32,881.24,0.0,0.0,0.0,0.0,0.0,0.0,6438.11
+Armazenamento,Armazenamento Seagate HDD Pro,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,41.0,1413.84,277.22,0.0,0.0,0.0,0.0,0.0,0.0,2025.33
+Armazenamento,Armazenamento WD HDD Gamer,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,86.0,573.63,112.48,0.0,0.0,0.0,0.0,0.0,0.0,821.72
+Armazenamento,Armazenamento WD HDD Gamer,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,28.0,758.41,148.71,0.0,0.0,0.0,0.0,0.0,0.0,1086.42
+Armazenamento,Armazenamento WD HDD Pro,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,68.0,2890.56,566.78,0.0,0.0,0.0,0.0,0.0,0.0,4140.73
+Armazenamento,Armazenamento WD HDD Plus,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,30.0,4746.78,930.74,0.0,0.0,0.0,0.0,0.0,0.0,6799.76
+Fonte,Fonte Corsair Lite,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,77.0,3514.58,689.13,0.0,0.0,0.0,0.0,0.0,0.0,5034.64
+Fonte,Fonte Corsair Gamer,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,38.0,247.69,48.57,0.0,0.0,0.0,0.0,0.0,0.0,354.82
+Fonte,Fonte EVGA Pro,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,60.0,4040.39,792.23,0.0,0.0,0.0,0.0,0.0,0.0,5787.86
+Fonte,Fonte EVGA Pro,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,85.0,4718.75,925.25,0.0,0.0,0.0,0.0,0.0,0.0,6759.61
+Fonte,Fonte EVGA Gamer,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,42.0,524.28,102.8,0.0,0.0,0.0,0.0,0.0,0.0,751.03
+Fonte,Fonte EVGA Gamer,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,63.0,3256.35,638.5,0.0,0.0,0.0,0.0,0.0,0.0,4664.72
+Fonte,Fonte Cooler Master Edition,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,96.0,1320.7,258.96,0.0,0.0,0.0,0.0,0.0,0.0,1891.9
+Fonte,Fonte Cooler Master Plus,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,83.0,3162.31,620.06,0.0,0.0,0.0,0.0,0.0,0.0,4530.01
+Fonte,Fonte Cooler Master Pro,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,100.0,989.31,193.98,0.0,0.0,0.0,0.0,0.0,0.0,1417.19
+Fonte,Fonte Cooler Master Gamer,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,86.0,1028.14,201.6,0.0,0.0,0.0,0.0,0.0,0.0,1472.81
+Fonte,Fonte Thermaltake Plus,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,43.0,1459.16,286.11,0.0,0.0,0.0,0.0,0.0,0.0,2090.25
+Fonte,Fonte Thermaltake Gamer,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,40.0,3095.73,607.01,0.0,0.0,0.0,0.0,0.0,0.0,4434.63
+Fonte,Fonte Thermaltake Edition,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,36.0,4514.28,885.15,0.0,0.0,0.0,0.0,0.0,0.0,6466.71
+Fonte,Fonte Thermaltake Gamer,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,32.0,2805.33,550.06,0.0,0.0,0.0,0.0,0.0,0.0,4018.64
+Fonte,Fonte XPG Edition,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,15.0,1259.04,246.87,0.0,0.0,0.0,0.0,0.0,0.0,1803.57
+Fonte,Fonte XPG Plus,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,72.0,3850.88,755.07,0.0,0.0,0.0,0.0,0.0,0.0,5516.39
+Fonte,Fonte XPG Lite,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,93.0,3486.02,683.53,0.0,0.0,0.0,0.0,0.0,0.0,4993.72
+Gabinete,Gabinete Thermaltake Edition,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",93.0,110.94,21.75,0.0,0.0,0.0,0.0,0.0,0.0,158.92
+Gabinete,Gabinete Thermaltake Plus,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",81.0,3232.68,633.86,0.0,0.0,0.0,0.0,0.0,0.0,4630.81
+Gabinete,Gabinete Thermaltake,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",77.0,3652.48,716.17,0.0,0.0,0.0,0.0,0.0,0.0,5232.18
+Gabinete,Gabinete Cooler Master Edition,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",91.0,4803.17,941.8,0.0,0.0,0.0,0.0,0.0,0.0,6880.54
+Gabinete,Gabinete Cooler Master Pro,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",92.0,3369.62,660.71,0.0,0.0,0.0,0.0,0.0,0.0,4826.98
+Gabinete,Gabinete Redragon,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",87.0,1133.34,222.22,0.0,0.0,0.0,0.0,0.0,0.0,1623.51
+Gabinete,Gabinete Redragon Gamer,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",38.0,4659.85,913.7,0.0,0.0,0.0,0.0,0.0,0.0,6675.24
+Gabinete,Gabinete Redragon Pro,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",100.0,413.45,81.07,0.0,0.0,0.0,0.0,0.0,0.0,592.27
+Gabinete,Gabinete Aerocool Gamer,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",24.0,2946.4,577.73,0.0,0.0,0.0,0.0,0.0,0.0,4220.72
+Gabinete,Gabinete Aerocool Edition,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",29.0,3967.57,777.95,0.0,0.0,0.0,0.0,0.0,0.0,5683.54
+Gabinete,Gabinete NZXT Pro,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",42.0,1661.9,325.86,0.0,0.0,0.0,0.0,0.0,0.0,2380.67
+Gabinete,Gabinete NZXT Pro,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",65.0,786.75,154.26,0.0,0.0,0.0,0.0,0.0,0.0,1127.02
+Gabinete,Gabinete NZXT Gamer,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",39.0,4591.66,900.33,0.0,0.0,0.0,0.0,0.0,0.0,6577.55
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Edition,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,55.0,4246.38,832.62,0.0,0.0,0.0,0.0,0.0,0.0,6082.94
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Plus,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,61.0,3810.21,747.1,0.0,0.0,0.0,0.0,0.0,0.0,5458.13
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Plus,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,88.0,591.69,116.02,0.0,0.0,0.0,0.0,0.0,0.0,847.6
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Edition,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,83.0,1595.48,312.84,0.0,0.0,0.0,0.0,0.0,0.0,2285.53
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 3060,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,96.0,645.59,126.59,0.0,0.0,0.0,0.0,0.0,0.0,924.81
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 3060 Edition,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,30.0,2253.85,441.93,0.0,0.0,0.0,0.0,0.0,0.0,3228.64
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 3060 Pro,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,86.0,4075.33,799.08,0.0,0.0,0.0,0.0,0.0,0.0,5837.91
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Edition,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,10.0,211.52,41.47,0.0,0.0,0.0,0.0,0.0,0.0,303.0
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Lite,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,63.0,2799.11,548.85,0.0,0.0,0.0,0.0,0.0,0.0,4009.73
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Edition,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,95.0,3174.8,622.51,0.0,0.0,0.0,0.0,0.0,0.0,4547.9
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Plus,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,29.0,4057.89,795.66,0.0,0.0,0.0,0.0,0.0,0.0,5812.93
+Placa de Vídeo,Placa de Vídeo AMD RX 6600 Pro,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,49.0,4333.86,849.78,0.0,0.0,0.0,0.0,0.0,0.0,6208.25
+Placa de Vídeo,Placa de Vídeo AMD RX 6600,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,34.0,4063.32,796.73,0.0,0.0,0.0,0.0,0.0,0.0,5820.71
+Placa de Vídeo,Placa de Vídeo AMD RX 6800,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,97.0,345.2,67.69,0.0,0.0,0.0,0.0,0.0,0.0,494.5
+Placa de Vídeo,Placa de Vídeo AMD RX 6800 Lite,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,28.0,4005.38,785.37,0.0,0.0,0.0,0.0,0.0,0.0,5737.71
+Placa de Vídeo,Placa de Vídeo AMD RX 6800 Gamer,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,74.0,2845.86,558.01,0.0,0.0,0.0,0.0,0.0,0.0,4076.69
+Placa de Vídeo,Placa de Vídeo AMD RX 7900 Lite,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,93.0,2659.74,521.52,0.0,0.0,0.0,0.0,0.0,0.0,3810.08
+Placa de Vídeo,Placa de Vídeo AMD RX 7900 Edition,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,29.0,3486.7,683.67,0.0,0.0,0.0,0.0,0.0,0.0,4994.7
+Placa de Vídeo,Placa de Vídeo AMD RX 7900,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,16.0,3555.26,697.11,0.0,0.0,0.0,0.0,0.0,0.0,5092.91
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master Pro,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,28.0,1307.07,256.29,0.0,0.0,0.0,0.0,0.0,0.0,1872.38
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,76.0,2550.87,500.17,0.0,0.0,0.0,0.0,0.0,0.0,3654.12
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,21.0,4079.86,799.97,0.0,0.0,0.0,0.0,0.0,0.0,5844.4
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master Lite,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2360.4,462.82,0.0,0.0,0.0,0.0,0.0,0.0,3381.27
+Cooler/Resfriamento,Cooler/Resfriamento Deepcool Lite,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,70.0,4871.3,955.16,0.0,0.0,0.0,0.0,0.0,0.0,6978.14
+Cooler/Resfriamento,Cooler/Resfriamento Deepcool Edition,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,50.0,3850.86,755.07,0.0,0.0,0.0,0.0,0.0,0.0,5516.36
+Cooler/Resfriamento,Cooler/Resfriamento Noctua Lite,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,67.0,2601.93,510.18,0.0,0.0,0.0,0.0,0.0,0.0,3727.26
+Cooler/Resfriamento,Cooler/Resfriamento Noctua Lite,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,20.0,1965.2,385.33,0.0,0.0,0.0,0.0,0.0,0.0,2815.15
+Cooler/Resfriamento,Cooler/Resfriamento Noctua,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,61.0,3000.14,588.26,0.0,0.0,0.0,0.0,0.0,0.0,4297.7
+Cooler/Resfriamento,Cooler/Resfriamento Noctua Plus,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,41.0,2096.11,411.0,0.0,0.0,0.0,0.0,0.0,0.0,3002.68
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,68.0,2279.95,447.05,0.0,0.0,0.0,0.0,0.0,0.0,3266.03
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Lite,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2746.14,538.46,0.0,0.0,0.0,0.0,0.0,0.0,3933.85
+Cooler/Resfriamento,Cooler/Resfriamento Arctic,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,93.0,3790.37,743.21,0.0,0.0,0.0,0.0,0.0,0.0,5429.71
+Cooler/Resfriamento,Cooler/Resfriamento Arctic Pro,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,48.0,1720.7,337.39,0.0,0.0,0.0,0.0,0.0,0.0,2464.9
+Cooler/Resfriamento,Cooler/Resfriamento Arctic Plus,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,557.49,109.31,0.0,0.0,0.0,0.0,0.0,0.0,798.6
+Monitor,Monitor AOC Pro,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,35.0,2679.47,525.39,0.0,0.0,0.0,0.0,0.0,0.0,3838.34
+Monitor,Monitor AOC Plus,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,59.0,1175.24,230.44,0.0,0.0,0.0,0.0,0.0,0.0,1683.53
+Monitor,Monitor AOC Lite,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,65.0,3003.2,588.86,0.0,0.0,0.0,0.0,0.0,0.0,4302.08
+Monitor,Monitor AOC,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,50.0,1426.57,279.72,0.0,0.0,0.0,0.0,0.0,0.0,2043.56
+Monitor,Monitor Samsung Gamer,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,54.0,4954.93,971.55,0.0,0.0,0.0,0.0,0.0,0.0,7097.94
+Monitor,Monitor Samsung,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,74.0,1434.48,281.27,0.0,0.0,0.0,0.0,0.0,0.0,2054.89
+Monitor,Monitor Samsung Lite,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,15.0,1967.33,385.75,0.0,0.0,0.0,0.0,0.0,0.0,2818.2
+Monitor,Monitor LG Lite,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,64.0,2179.65,427.38,0.0,0.0,0.0,0.0,0.0,0.0,3122.35
+Monitor,Monitor LG Lite,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,49.0,3729.42,731.26,0.0,0.0,0.0,0.0,0.0,0.0,5342.39
+Monitor,Monitor Philips Pro,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,17.0,2387.13,468.06,0.0,0.0,0.0,0.0,0.0,0.0,3419.56
+Monitor,Monitor Philips Lite,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,18.0,1816.55,356.19,0.0,0.0,0.0,0.0,0.0,0.0,2602.21
+Monitor,Monitor Dell,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,31.0,811.04,159.03,0.0,0.0,0.0,0.0,0.0,0.0,1161.81
+Monitor,Monitor Dell,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,32.0,427.24,83.77,0.0,0.0,0.0,0.0,0.0,0.0,612.02
+Periféricos,Periféricos Teclado Redragon,Acessório essencial para gamers e profissionais que buscam conforto e performance.,82.0,914.32,179.28,0.0,0.0,0.0,0.0,0.0,0.0,1309.76
+Periféricos,Periféricos Teclado Redragon Gamer,Acessório essencial para gamers e profissionais que buscam conforto e performance.,50.0,3848.54,754.62,0.0,0.0,0.0,0.0,0.0,0.0,5513.03
+Periféricos,Periféricos Mouse Logitech Gamer,Acessório essencial para gamers e profissionais que buscam conforto e performance.,18.0,500.12,98.06,0.0,0.0,0.0,0.0,0.0,0.0,716.42
+Periféricos,Periféricos Mouse Logitech Pro,Acessório essencial para gamers e profissionais que buscam conforto e performance.,30.0,2694.91,528.41,0.0,0.0,0.0,0.0,0.0,0.0,3860.46
+Periféricos,Periféricos Headset HyperX Pro,Acessório essencial para gamers e profissionais que buscam conforto e performance.,55.0,4158.67,815.43,0.0,0.0,0.0,0.0,0.0,0.0,5957.29
+Periféricos,Periféricos Headset HyperX,Acessório essencial para gamers e profissionais que buscam conforto e performance.,36.0,1075.72,210.93,0.0,0.0,0.0,0.0,0.0,0.0,1540.97
+Periféricos,Periféricos Headset HyperX Plus,Acessório essencial para gamers e profissionais que buscam conforto e performance.,95.0,512.64,100.52,0.0,0.0,0.0,0.0,0.0,0.0,734.36
+Periféricos,Periféricos Mousepad Razer Pro,Acessório essencial para gamers e profissionais que buscam conforto e performance.,48.0,614.96,120.58,0.0,0.0,0.0,0.0,0.0,0.0,880.93
+Periféricos,Periféricos Mousepad Razer Pro,Acessório essencial para gamers e profissionais que buscam conforto e performance.,70.0,2983.3,584.96,0.0,0.0,0.0,0.0,0.0,0.0,4273.58
+Periféricos,Periféricos Mousepad Razer Gamer,Acessório essencial para gamers e profissionais que buscam conforto e performance.,74.0,1843.91,361.55,0.0,0.0,0.0,0.0,0.0,0.0,2641.4
+Periféricos,Periféricos Webcam Logitech Edition,Acessório essencial para gamers e profissionais que buscam conforto e performance.,68.0,968.12,189.83,0.0,0.0,0.0,0.0,0.0,0.0,1386.83
+Periféricos,Periféricos Webcam Logitech Edition,Acessório essencial para gamers e profissionais que buscam conforto e performance.,86.0,2057.63,403.46,0.0,0.0,0.0,0.0,0.0,0.0,2947.55
+Periféricos,Periféricos Webcam Logitech Edition,Acessório essencial para gamers e profissionais que buscam conforto e performance.,67.0,4648.54,911.48,0.0,0.0,0.0,0.0,0.0,0.0,6659.03
+Periféricos,Periféricos Microfone Fifine,Acessório essencial para gamers e profissionais que buscam conforto e performance.,75.0,3131.62,614.04,0.0,0.0,0.0,0.0,0.0,0.0,4486.05
+Periféricos,Periféricos Microfone Fifine Plus,Acessório essencial para gamers e profissionais que buscam conforto e performance.,10.0,2403.57,471.29,0.0,0.0,0.0,0.0,0.0,0.0,3443.11
+Periféricos,Periféricos Microfone Fifine Pro,Acessório essencial para gamers e profissionais que buscam conforto e performance.,74.0,3609.63,707.77,0.0,0.0,0.0,0.0,0.0,0.0,5170.79
+Placa de Rede,Placa de Rede TP-Link,Placa de rede de alta velocidade para conexões estáveis e rápidas.,24.0,1288.75,252.7,0.0,0.0,0.0,0.0,0.0,0.0,1846.13
+Placa de Rede,Placa de Rede TP-Link,Placa de rede de alta velocidade para conexões estáveis e rápidas.,43.0,975.78,191.33,0.0,0.0,0.0,0.0,0.0,0.0,1397.8
+Placa de Rede,Placa de Rede TP-Link Gamer,Placa de rede de alta velocidade para conexões estáveis e rápidas.,10.0,3198.07,627.07,0.0,0.0,0.0,0.0,0.0,0.0,4581.24
+Placa de Rede,Placa de Rede Intel Lite,Placa de rede de alta velocidade para conexões estáveis e rápidas.,96.0,2559.78,501.92,0.0,0.0,0.0,0.0,0.0,0.0,3666.88
+Placa de Rede,Placa de Rede Intel Gamer,Placa de rede de alta velocidade para conexões estáveis e rápidas.,79.0,2834.71,555.83,0.0,0.0,0.0,0.0,0.0,0.0,4060.72
+Placa de Rede,Placa de Rede Intel Pro,Placa de rede de alta velocidade para conexões estáveis e rápidas.,43.0,2546.64,499.34,0.0,0.0,0.0,0.0,0.0,0.0,3648.06
+Placa de Rede,Placa de Rede Intel Plus,Placa de rede de alta velocidade para conexões estáveis e rápidas.,37.0,895.15,175.52,0.0,0.0,0.0,0.0,0.0,0.0,1282.3
+Placa de Rede,Placa de Rede Asus Plus,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Placa de Rede,Placa de Rede Asus Lite,Placa de rede de alta velocidade para conexões estáveis e rápidas.,99.0,3324.08,651.78,0.0,0.0,0.0,0.0,0.0,0.0,4761.74
+Placa de Rede,Placa de Rede D-Link Lite,Placa de rede de alta velocidade para conexões estáveis e rápidas.,34.0,4299.12,842.96,0.0,0.0,0.0,0.0,0.0,0.0,6158.49
+Placa de Rede,Placa de Rede D-Link Lite,Placa de rede de alta velocidade para conexões estáveis e rápidas.,82.0,1584.25,310.64,0.0,0.0,0.0,0.0,0.0,0.0,2269.44
+Placa de Rede,Placa de Rede D-Link,Placa de rede de alta velocidade para conexões estáveis e rápidas.,42.0,1095.6,214.82,0.0,0.0,0.0,0.0,0.0,0.0,1569.45
+Notebook,Notebook Dell Inspiron Gamer,"Notebook com boa performance para estudos, trabalho e entretenimento.",100.0,4029.56,790.11,0.0,0.0,0.0,0.0,0.0,0.0,5772.34
+Notebook,Notebook Dell Inspiron Pro,"Notebook com boa performance para estudos, trabalho e entretenimento.",18.0,3231.98,633.72,0.0,0.0,0.0,0.0,0.0,0.0,4629.81
+Notebook,Notebook Lenovo IdeaPad Lite,"Notebook com boa performance para estudos, trabalho e entretenimento.",95.0,4416.46,865.97,0.0,0.0,0.0,0.0,0.0,0.0,6326.58
+Notebook,Notebook Lenovo IdeaPad Pro,"Notebook com boa performance para estudos, trabalho e entretenimento.",44.0,4194.64,822.48,0.0,0.0,0.0,0.0,0.0,0.0,6008.82
+Notebook,Notebook Lenovo IdeaPad Pro,"Notebook com boa performance para estudos, trabalho e entretenimento.",95.0,2547.69,499.55,0.0,0.0,0.0,0.0,0.0,0.0,3649.57
+Notebook,Notebook Acer Nitro,"Notebook com boa performance para estudos, trabalho e entretenimento.",87.0,3971.5,778.73,0.0,0.0,0.0,0.0,0.0,0.0,5689.17
+Notebook,Notebook Acer Nitro,"Notebook com boa performance para estudos, trabalho e entretenimento.",51.0,4461.71,874.85,0.0,0.0,0.0,0.0,0.0,0.0,6391.4
+Notebook,Notebook Acer Nitro,"Notebook com boa performance para estudos, trabalho e entretenimento.",60.0,2623.5,514.41,0.0,0.0,0.0,0.0,0.0,0.0,3758.16
+Notebook,Notebook Acer Nitro,"Notebook com boa performance para estudos, trabalho e entretenimento.",80.0,3327.48,652.45,0.0,0.0,0.0,0.0,0.0,0.0,4766.62
+Notebook,Notebook Asus VivoBook Pro,"Notebook com boa performance para estudos, trabalho e entretenimento.",81.0,2688.98,527.25,0.0,0.0,0.0,0.0,0.0,0.0,3851.96
+Notebook,Notebook Asus VivoBook Lite,"Notebook com boa performance para estudos, trabalho e entretenimento.",22.0,3896.88,764.09,0.0,0.0,0.0,0.0,0.0,0.0,5582.28
+Console e Jogos,Console e Jogos PlayStation 5,Console de última geração para uma experiência imersiva em jogos.,50.0,3545.22,695.14,0.0,0.0,0.0,0.0,0.0,0.0,5078.53
+Console e Jogos,Console e Jogos PlayStation 5 Lite,Console de última geração para uma experiência imersiva em jogos.,10.0,2015.65,395.23,0.0,0.0,0.0,0.0,0.0,0.0,2887.42
+Console e Jogos,Console e Jogos Xbox Series X Lite,Console de última geração para uma experiência imersiva em jogos.,63.0,4533.95,889.01,0.0,0.0,0.0,0.0,0.0,0.0,6494.88
+Mesa Gamer,Mesa Gamer Fortrek Pro,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Fortrek Xtreme,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Fortrek Pro,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Fortrek Xtreme,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Fortrek LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Fortrek RGB,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Xtrike Pro,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Xtrike Pro,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Xtrike RGB,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Xtrike LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Xtrike RGB,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Xtrike Xtreme,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon Xtreme,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon RGB,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports RGB,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports Xtreme,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports Xtreme,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports RGB,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports LED,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Ajustável,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Ajustável,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Ajustável,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Ajustável,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor PCYes Ajustável,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor PCYes Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor PCYes Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor PCYes Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor PCYes Ajustável,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor PCYes Duplo,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Processador,Processador AMD Ryzen 9 Pro v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,16.0,4342.18,851.41,0.0,0.0,0.0,0.0,0.0,0.0,6220.17
+Placa de Rede,Placa de Rede D-Link Lite v4,Placa de rede de alta velocidade para conexões estáveis e rápidas.,34.0,4299.12,842.96,0.0,0.0,0.0,0.0,0.0,0.0,6158.49
+Mesa Gamer,Mesa Gamer Xtrike LED v8,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Fonte,Fonte Cooler Master Gamer v4,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,86.0,1028.14,201.6,0.0,0.0,0.0,0.0,0.0,0.0,1472.81
+Placa de Rede,Placa de Rede Asus Plus v5,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Periféricos,Periféricos Webcam Logitech Edition v3,Acessório essencial para gamers e profissionais que buscam conforto e performance.,86.0,2057.63,403.46,0.0,0.0,0.0,0.0,0.0,0.0,2947.55
+Armazenamento,Armazenamento Kingston SSD Pro v4,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,64.0,4795.27,940.25,0.0,0.0,0.0,0.0,0.0,0.0,6869.22
+Monitor,Monitor LG Lite v7,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,64.0,2179.65,427.38,0.0,0.0,0.0,0.0,0.0,0.0,3122.35
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v2,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Placa de Rede,Placa de Rede D-Link v7,Placa de rede de alta velocidade para conexões estáveis e rápidas.,42.0,1095.6,214.82,0.0,0.0,0.0,0.0,0.0,0.0,1569.45
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master v4,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,76.0,2550.87,500.17,0.0,0.0,0.0,0.0,0.0,0.0,3654.12
+Processador,Processador Intel Core i9 Lite v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,86.0,671.97,131.76,0.0,0.0,0.0,0.0,0.0,0.0,962.6
+Suporte de Monitor,Suporte de Monitor Fellowes Duplo v3,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Processador,Processador AMD Ryzen 5 Edition v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,92.0,1566.26,307.11,0.0,0.0,0.0,0.0,0.0,0.0,2243.67
+Gabinete,Gabinete Thermaltake Plus v5,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",81.0,3232.68,633.86,0.0,0.0,0.0,0.0,0.0,0.0,4630.81
+Processador,Processador AMD Ryzen 7 Lite v5,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,54.0,3676.52,720.89,0.0,0.0,0.0,0.0,0.0,0.0,5266.61
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition v3,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v9,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Gabinete,Gabinete Thermaltake Plus v5 v7,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",81.0,3232.68,633.86,0.0,0.0,0.0,0.0,0.0,0.0,4630.81
+Mesa Gamer,Mesa Gamer Xtrike RGB v3,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Memória RAM,Memória RAM Corsair Gamer v8,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Placa de Rede,Placa de Rede TP-Link v3,Placa de rede de alta velocidade para conexões estáveis e rápidas.,43.0,975.78,191.33,0.0,0.0,0.0,0.0,0.0,0.0,1397.8
+Processador,Processador Intel Core i3 Gamer v4,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,21.0,2631.26,515.93,0.0,0.0,0.0,0.0,0.0,0.0,3769.28
+Placa de Rede,Placa de Rede TP-Link v3 v6,Placa de rede de alta velocidade para conexões estáveis e rápidas.,43.0,975.78,191.33,0.0,0.0,0.0,0.0,0.0,0.0,1397.8
+Fonte,Fonte Cooler Master Pro v5,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,100.0,989.31,193.98,0.0,0.0,0.0,0.0,0.0,0.0,1417.19
+Armazenamento,Armazenamento Kingston SSD Lite v2,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,26.0,113.39,22.23,0.0,0.0,0.0,0.0,0.0,0.0,162.43
+Armazenamento,Armazenamento Seagate HDD v9,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2069.01,405.69,0.0,0.0,0.0,0.0,0.0,0.0,2963.86
+Monitor,Monitor Samsung v4,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,74.0,1434.48,281.27,0.0,0.0,0.0,0.0,0.0,0.0,2054.89
+Periféricos,Periféricos Teclado Redragon Gamer v3,Acessório essencial para gamers e profissionais que buscam conforto e performance.,50.0,3848.54,754.62,0.0,0.0,0.0,0.0,0.0,0.0,5513.03
+Periféricos,Periféricos Mouse Logitech Gamer v4,Acessório essencial para gamers e profissionais que buscam conforto e performance.,18.0,500.12,98.06,0.0,0.0,0.0,0.0,0.0,0.0,716.42
+Periféricos,Periféricos Webcam Logitech Edition v4,Acessório essencial para gamers e profissionais que buscam conforto e performance.,68.0,968.12,189.83,0.0,0.0,0.0,0.0,0.0,0.0,1386.83
+Processador,Processador Intel Core i9 Lite v5,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Mesa Gamer,Mesa Gamer Fortrek Xtreme v3,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Processador,Processador Intel Core i3 Edition v8,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,56.0,3376.87,662.13,0.0,0.0,0.0,0.0,0.0,0.0,4837.37
+Placa-Mãe,Placa-Mãe Biostar Pro v7,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Armazenamento,Armazenamento Kingston SSD Lite v5,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,26.0,113.39,22.23,0.0,0.0,0.0,0.0,0.0,0.0,162.43
+Gabinete,Gabinete Redragon Gamer v5,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",38.0,4659.85,913.7,0.0,0.0,0.0,0.0,0.0,0.0,6675.24
+Periféricos,Periféricos Webcam Logitech Edition v4,Acessório essencial para gamers e profissionais que buscam conforto e performance.,86.0,2057.63,403.46,0.0,0.0,0.0,0.0,0.0,0.0,2947.55
+Processador,Processador AMD Ryzen 9 Pro v6 v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,16.0,4342.18,851.41,0.0,0.0,0.0,0.0,0.0,0.0,6220.17
+Placa-Mãe,Placa-Mãe Biostar Pro v6,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Notebook,Notebook Lenovo IdeaPad Pro v7,"Notebook com boa performance para estudos, trabalho e entretenimento.",44.0,4194.64,822.48,0.0,0.0,0.0,0.0,0.0,0.0,6008.82
+Memória RAM,Memória RAM G.Skill Lite v2,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,75.0,231.97,45.48,0.0,0.0,0.0,0.0,0.0,0.0,332.3
+Processador,Processador AMD Ryzen 5 Edition v3 v4,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,92.0,1566.26,307.11,0.0,0.0,0.0,0.0,0.0,0.0,2243.67
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v9,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Armazenamento,Armazenamento Samsung SSD Edition v5,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Gabinete,Gabinete Cooler Master Edition v4,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",91.0,4803.17,941.8,0.0,0.0,0.0,0.0,0.0,0.0,6880.54
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Edition v7,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,95.0,3174.8,622.51,0.0,0.0,0.0,0.0,0.0,0.0,4547.9
+Processador,Processador Intel Core i5 Plus v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,48.0,3304.14,647.87,0.0,0.0,0.0,0.0,0.0,0.0,4733.18
+Suporte de Monitor,Suporte de Monitor ELG Articulado v6,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Placa de Rede,Placa de Rede Asus Plus v5,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Placa de Rede,Placa de Rede Asus Plus v5 v5,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Suporte de Monitor,Suporte de Monitor Multivisão Duplo v4,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Gabinete,Gabinete Redragon Pro v2,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",100.0,413.45,81.07,0.0,0.0,0.0,0.0,0.0,0.0,592.27
+Periféricos,Periféricos Microfone Fifine Plus v3,Acessório essencial para gamers e profissionais que buscam conforto e performance.,10.0,2403.57,471.29,0.0,0.0,0.0,0.0,0.0,0.0,3443.11
+Monitor,Monitor AOC v7,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,50.0,1426.57,279.72,0.0,0.0,0.0,0.0,0.0,0.0,2043.56
+Periféricos,Periféricos Mouse Logitech Gamer v4 v4,Acessório essencial para gamers e profissionais que buscam conforto e performance.,18.0,500.12,98.06,0.0,0.0,0.0,0.0,0.0,0.0,716.42
+Cooler/Resfriamento,Cooler/Resfriamento Arctic v9,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,93.0,3790.37,743.21,0.0,0.0,0.0,0.0,0.0,0.0,5429.71
+Armazenamento,Armazenamento Crucial SSD Edition v9,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,16.0,1527.64,299.54,0.0,0.0,0.0,0.0,0.0,0.0,2188.34
+Fonte,Fonte XPG Edition v4,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,15.0,1259.04,246.87,0.0,0.0,0.0,0.0,0.0,0.0,1803.57
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Edition v8,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,83.0,1595.48,312.84,0.0,0.0,0.0,0.0,0.0,0.0,2285.53
+Fonte,Fonte Thermaltake Gamer v6,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,40.0,3095.73,607.01,0.0,0.0,0.0,0.0,0.0,0.0,4434.63
+Suporte de Monitor,Suporte de Monitor ELG Ajustável v5,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Gabinete,Gabinete Thermaltake v2,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",77.0,3652.48,716.17,0.0,0.0,0.0,0.0,0.0,0.0,5232.18
+Monitor,Monitor Dell v7,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,32.0,427.24,83.77,0.0,0.0,0.0,0.0,0.0,0.0,612.02
+Placa-Mãe,Placa-Mãe Biostar Edition v6,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,47.0,3965.59,777.57,0.0,0.0,0.0,0.0,0.0,0.0,5680.71
+Mesa Gamer,Mesa Gamer Fortrek Pro v3,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Placa de Rede,Placa de Rede Asus Plus v5 v6,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Periféricos,Periféricos Headset HyperX v7,Acessório essencial para gamers e profissionais que buscam conforto e performance.,36.0,1075.72,210.93,0.0,0.0,0.0,0.0,0.0,0.0,1540.97
+Armazenamento,Armazenamento Crucial SSD Gamer v6,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,68.0,654.38,128.31,0.0,0.0,0.0,0.0,0.0,0.0,937.4
+Armazenamento,Armazenamento Kingston SSD Lite v5 v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,26.0,113.39,22.23,0.0,0.0,0.0,0.0,0.0,0.0,162.43
+Processador,Processador AMD Ryzen 5 Edition v3 v4 v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,92.0,1566.26,307.11,0.0,0.0,0.0,0.0,0.0,0.0,2243.67
+Fonte,Fonte Cooler Master Edition v8,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,96.0,1320.7,258.96,0.0,0.0,0.0,0.0,0.0,0.0,1891.9
+Periféricos,Periféricos Webcam Logitech Edition v4 v6,Acessório essencial para gamers e profissionais que buscam conforto e performance.,68.0,968.12,189.83,0.0,0.0,0.0,0.0,0.0,0.0,1386.83
+Placa-Mãe,Placa-Mãe Biostar Pro v3,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Armazenamento,Armazenamento WD SSD Edition v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,44.0,3413.41,669.3,0.0,0.0,0.0,0.0,0.0,0.0,4889.71
+Placa-Mãe,Placa-Mãe ASRock Edition v8,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,88.0,1025.35,201.05,0.0,0.0,0.0,0.0,0.0,0.0,1468.81
+Processador,Processador AMD Ryzen 5 Pro v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,70.0,614.62,120.51,0.0,0.0,0.0,0.0,0.0,0.0,880.44
+Armazenamento,Armazenamento Samsung SSD Edition v5 v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Processador,Processador Intel Core i3 Lite v8,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,100.0,291.14,57.09,0.0,0.0,0.0,0.0,0.0,0.0,417.06
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v2 v7,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Multivisão Ajustável v8,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition v3 v7,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Suporte de Monitor,Suporte de Monitor ELG Articulado v9,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Processador,Processador Intel Core i7 Plus v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,78.0,2049.14,401.79,0.0,0.0,0.0,0.0,0.0,0.0,2935.39
+Fonte,Fonte Thermaltake Gamer v4,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,32.0,2805.33,550.06,0.0,0.0,0.0,0.0,0.0,0.0,4018.64
+Monitor,Monitor Dell v2,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,32.0,427.24,83.77,0.0,0.0,0.0,0.0,0.0,0.0,612.02
+Mesa Gamer,Mesa Gamer Xtrike LED v8 v2,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Monitor,Monitor AOC Lite v7,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,65.0,3003.2,588.86,0.0,0.0,0.0,0.0,0.0,0.0,4302.08
+Processador,Processador Intel Core i7 v9,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,26.0,4109.85,805.85,0.0,0.0,0.0,0.0,0.0,0.0,5887.36
+Armazenamento,Armazenamento Samsung SSD Edition v5 v3 v4,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Placa-Mãe,Placa-Mãe ASUS Pro v4,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,88.0,4084.96,800.97,0.0,0.0,0.0,0.0,0.0,0.0,5851.71
+Placa de Rede,Placa de Rede Asus Plus v5 v4,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Suporte de Monitor,Suporte de Monitor Fellowes Duplo v3,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Gabinete,Gabinete Thermaltake Plus v5,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",81.0,3232.68,633.86,0.0,0.0,0.0,0.0,0.0,0.0,4630.81
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Edition v2,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,83.0,1595.48,312.84,0.0,0.0,0.0,0.0,0.0,0.0,2285.53
+Armazenamento,Armazenamento WD SSD Edition v3 v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,44.0,3413.41,669.3,0.0,0.0,0.0,0.0,0.0,0.0,4889.71
+Processador,Processador Intel Core i7 v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,26.0,4109.85,805.85,0.0,0.0,0.0,0.0,0.0,0.0,5887.36
+Suporte de Monitor,Suporte de Monitor ELG Articulado v9 v9,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Processador,Processador Intel Core i5 Plus v7 v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,48.0,3304.14,647.87,0.0,0.0,0.0,0.0,0.0,0.0,4733.18
+Fonte,Fonte Cooler Master Edition v8,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,96.0,1320.7,258.96,0.0,0.0,0.0,0.0,0.0,0.0,1891.9
+Monitor,Monitor LG Lite v2,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,64.0,2179.65,427.38,0.0,0.0,0.0,0.0,0.0,0.0,3122.35
+Monitor,Monitor Dell v7 v6,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,32.0,427.24,83.77,0.0,0.0,0.0,0.0,0.0,0.0,612.02
+Fonte,Fonte Thermaltake Plus v5,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,43.0,1459.16,286.11,0.0,0.0,0.0,0.0,0.0,0.0,2090.25
+Memória RAM,Memória RAM ADATA v3,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,57.0,1522.84,298.6,0.0,0.0,0.0,0.0,0.0,0.0,2181.47
+Notebook,Notebook Lenovo IdeaPad Lite v6,"Notebook com boa performance para estudos, trabalho e entretenimento.",95.0,4416.46,865.97,0.0,0.0,0.0,0.0,0.0,0.0,6326.58
+Mesa Gamer,Mesa Gamer Xtrike Pro v7,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition v8,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Gabinete,Gabinete Redragon Pro v2,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",100.0,413.45,81.07,0.0,0.0,0.0,0.0,0.0,0.0,592.27
+Memória RAM,Memória RAM Corsair Gamer v8 v9,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Armazenamento,Armazenamento Seagate HDD Gamer v8,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,98.0,4494.32,881.24,0.0,0.0,0.0,0.0,0.0,0.0,6438.11
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Lite v2,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2746.14,538.46,0.0,0.0,0.0,0.0,0.0,0.0,3933.85
+Mesa Gamer,Mesa Gamer DT3 Sports Xtreme v2,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer Redragon RGB v5,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Placa de Rede,Placa de Rede D-Link Lite v2,Placa de rede de alta velocidade para conexões estáveis e rápidas.,34.0,4299.12,842.96,0.0,0.0,0.0,0.0,0.0,0.0,6158.49
+Fonte,Fonte Thermaltake Edition v6,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,36.0,4514.28,885.15,0.0,0.0,0.0,0.0,0.0,0.0,6466.71
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v4,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Processador,Processador AMD Ryzen 3 Lite v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,35.0,1182.48,231.86,0.0,0.0,0.0,0.0,0.0,0.0,1693.9
+Gabinete,Gabinete Redragon Gamer v5 v5,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",38.0,4659.85,913.7,0.0,0.0,0.0,0.0,0.0,0.0,6675.24
+Fonte,Fonte Thermaltake Gamer v6 v9,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,40.0,3095.73,607.01,0.0,0.0,0.0,0.0,0.0,0.0,4434.63
+Monitor,Monitor Dell v2,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,32.0,427.24,83.77,0.0,0.0,0.0,0.0,0.0,0.0,612.02
+Armazenamento,Armazenamento Seagate HDD Pro v9,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,41.0,1413.84,277.22,0.0,0.0,0.0,0.0,0.0,0.0,2025.33
+Fonte,Fonte Corsair Lite v9,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,77.0,3514.58,689.13,0.0,0.0,0.0,0.0,0.0,0.0,5034.64
+Cooler/Resfriamento,Cooler/Resfriamento Noctua Plus v5,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,41.0,2096.11,411.0,0.0,0.0,0.0,0.0,0.0,0.0,3002.68
+Suporte de Monitor,Suporte de Monitor PCYes Duplo v4,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Edition v3,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,10.0,211.52,41.47,0.0,0.0,0.0,0.0,0.0,0.0,303.0
+Processador,Processador Intel Core i5 Edition v5,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,67.0,4980.19,976.51,0.0,0.0,0.0,0.0,0.0,0.0,7134.12
+Periféricos,Periféricos Teclado Redragon v5,Acessório essencial para gamers e profissionais que buscam conforto e performance.,82.0,914.32,179.28,0.0,0.0,0.0,0.0,0.0,0.0,1309.76
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition v3 v7 v5,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Processador,Processador AMD Ryzen 3 Lite v8,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,72.0,1913.22,375.14,0.0,0.0,0.0,0.0,0.0,0.0,2740.69
+Armazenamento,Armazenamento Samsung SSD Edition v5 v3 v6,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master v4 v6,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,76.0,2550.87,500.17,0.0,0.0,0.0,0.0,0.0,0.0,3654.12
+Placa de Rede,Placa de Rede Asus Plus v5 v6 v5,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Cooler/Resfriamento,Cooler/Resfriamento Noctua v5,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,61.0,3000.14,588.26,0.0,0.0,0.0,0.0,0.0,0.0,4297.7
+Processador,Processador Intel Core i5 Edition v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,56.0,826.28,162.02,0.0,0.0,0.0,0.0,0.0,0.0,1183.65
+Fonte,Fonte EVGA Pro v4,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,85.0,4718.75,925.25,0.0,0.0,0.0,0.0,0.0,0.0,6759.61
+Processador,Processador AMD Ryzen 5 Pro v3 v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,70.0,614.62,120.51,0.0,0.0,0.0,0.0,0.0,0.0,880.44
+Notebook,Notebook Lenovo IdeaPad Pro v5,"Notebook com boa performance para estudos, trabalho e entretenimento.",95.0,2547.69,499.55,0.0,0.0,0.0,0.0,0.0,0.0,3649.57
+Gabinete,Gabinete Redragon Gamer v5 v4,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",38.0,4659.85,913.7,0.0,0.0,0.0,0.0,0.0,0.0,6675.24
+Notebook,Notebook Lenovo IdeaPad Lite v9,"Notebook com boa performance para estudos, trabalho e entretenimento.",95.0,4416.46,865.97,0.0,0.0,0.0,0.0,0.0,0.0,6326.58
+Placa-Mãe,Placa-Mãe ASRock Pro v4,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,35.0,2002.79,392.7,0.0,0.0,0.0,0.0,0.0,0.0,2869.0
+Suporte de Monitor,Suporte de Monitor ELG Articulado v6 v8,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Placa-Mãe,Placa-Mãe Biostar Pro v9,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Processador,Processador Intel Core i5 Edition v5 v5,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,67.0,4980.19,976.51,0.0,0.0,0.0,0.0,0.0,0.0,7134.12
+Placa-Mãe,Placa-Mãe ASRock Edition v8 v8,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,88.0,1025.35,201.05,0.0,0.0,0.0,0.0,0.0,0.0,1468.81
+Cooler/Resfriamento,Cooler/Resfriamento Noctua v8,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,61.0,3000.14,588.26,0.0,0.0,0.0,0.0,0.0,0.0,4297.7
+Memória RAM,Memória RAM Corsair Gamer v7,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Processador,Processador Intel Core i9 Lite v5 v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Processador,Processador Intel Core i5 Plus v7 v3 v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,48.0,3304.14,647.87,0.0,0.0,0.0,0.0,0.0,0.0,4733.18
+Processador,Processador Intel Core i7 v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,26.0,4109.85,805.85,0.0,0.0,0.0,0.0,0.0,0.0,5887.36
+Cooler/Resfriamento,Cooler/Resfriamento Arctic v4,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,93.0,3790.37,743.21,0.0,0.0,0.0,0.0,0.0,0.0,5429.71
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v4 v3,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Placa-Mãe,Placa-Mãe Biostar Edition v6 v6,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,47.0,3965.59,777.57,0.0,0.0,0.0,0.0,0.0,0.0,5680.71
+Suporte de Monitor,Suporte de Monitor Multivisão Articulado v2,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor Fellowes Articulado v9 v6,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Placa de Rede,Placa de Rede D-Link v4,Placa de rede de alta velocidade para conexões estáveis e rápidas.,42.0,1095.6,214.82,0.0,0.0,0.0,0.0,0.0,0.0,1569.45
+Memória RAM,Memória RAM Crucial Plus v8,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,55.0,914.3,179.27,0.0,0.0,0.0,0.0,0.0,0.0,1309.73
+Suporte de Monitor,Suporte de Monitor PCYes Duplo v4 v3,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports Xtreme v5,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Processador,Processador Intel Core i9 Lite v5 v3 v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Armazenamento,Armazenamento Seagate HDD Pro v9,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,41.0,1413.84,277.22,0.0,0.0,0.0,0.0,0.0,0.0,2025.33
+Monitor,Monitor Dell v9,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,31.0,811.04,159.03,0.0,0.0,0.0,0.0,0.0,0.0,1161.81
+Cooler/Resfriamento,Cooler/Resfriamento Noctua v4,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,61.0,3000.14,588.26,0.0,0.0,0.0,0.0,0.0,0.0,4297.7
+Processador,Processador Intel Core i3 Gamer v4 v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,21.0,2631.26,515.93,0.0,0.0,0.0,0.0,0.0,0.0,3769.28
+Processador,Processador Intel Core i9 Lite v5 v3 v6 v9,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Armazenamento,Armazenamento Crucial SSD Edition v9 v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,16.0,1527.64,299.54,0.0,0.0,0.0,0.0,0.0,0.0,2188.34
+Monitor,Monitor AOC v7 v6,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,50.0,1426.57,279.72,0.0,0.0,0.0,0.0,0.0,0.0,2043.56
+Fonte,Fonte XPG Edition v4 v2,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,15.0,1259.04,246.87,0.0,0.0,0.0,0.0,0.0,0.0,1803.57
+Placa-Mãe,Placa-Mãe ASUS Lite v4,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,11.0,487.82,95.65,0.0,0.0,0.0,0.0,0.0,0.0,698.8
+Periféricos,Periféricos Mousepad Razer Pro v9,Acessório essencial para gamers e profissionais que buscam conforto e performance.,48.0,614.96,120.58,0.0,0.0,0.0,0.0,0.0,0.0,880.93
+Armazenamento,Armazenamento WD HDD Gamer v2,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,86.0,573.63,112.48,0.0,0.0,0.0,0.0,0.0,0.0,821.72
+Processador,Processador Intel Core i9 Pro v5,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,64.0,4656.4,913.02,0.0,0.0,0.0,0.0,0.0,0.0,6670.29
+Fonte,Fonte Cooler Master Plus v4,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,83.0,3162.31,620.06,0.0,0.0,0.0,0.0,0.0,0.0,4530.01
+Monitor,Monitor Samsung Gamer v7,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,54.0,4954.93,971.55,0.0,0.0,0.0,0.0,0.0,0.0,7097.94
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition v8 v7,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Memória RAM,Memória RAM Kingston Plus v8,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,52.0,1322.23,259.26,0.0,0.0,0.0,0.0,0.0,0.0,1894.09
+Armazenamento,Armazenamento Samsung SSD Edition v5 v3 v8,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Placa-Mãe,Placa-Mãe ASUS Lite v4 v8,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,11.0,487.82,95.65,0.0,0.0,0.0,0.0,0.0,0.0,698.8
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Lite v2 v2,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2746.14,538.46,0.0,0.0,0.0,0.0,0.0,0.0,3933.85
+Suporte de Monitor,Suporte de Monitor PCYes Duplo v4,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Monitor,Monitor LG Lite v6,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,49.0,3729.42,731.26,0.0,0.0,0.0,0.0,0.0,0.0,5342.39
+Memória RAM,Memória RAM Corsair Gamer v7,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake Edition v8 v6,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,36.0,1878.34,368.3,0.0,0.0,0.0,0.0,0.0,0.0,2690.72
+Memória RAM,Memória RAM Kingston Plus v8 v8,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,52.0,1322.23,259.26,0.0,0.0,0.0,0.0,0.0,0.0,1894.09
+Placa de Rede,Placa de Rede Asus Plus v5 v5 v6,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Cooler/Resfriamento,Cooler/Resfriamento Arctic v4 v7,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,93.0,3790.37,743.21,0.0,0.0,0.0,0.0,0.0,0.0,5429.71
+Notebook,Notebook Acer Nitro v8,"Notebook com boa performance para estudos, trabalho e entretenimento.",87.0,3971.5,778.73,0.0,0.0,0.0,0.0,0.0,0.0,5689.17
+Cooler/Resfriamento,Cooler/Resfriamento Deepcool Edition v9,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,50.0,3850.86,755.07,0.0,0.0,0.0,0.0,0.0,0.0,5516.36
+Placa-Mãe,Placa-Mãe ASRock Edition v8 v3,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,88.0,1025.35,201.05,0.0,0.0,0.0,0.0,0.0,0.0,1468.81
+Processador,Processador Intel Core i7 v2,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,26.0,4109.85,805.85,0.0,0.0,0.0,0.0,0.0,0.0,5887.36
+Cooler/Resfriamento,Cooler/Resfriamento Noctua Lite v6,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,67.0,2601.93,510.18,0.0,0.0,0.0,0.0,0.0,0.0,3727.26
+Processador,Processador AMD Ryzen 9 Pro v3,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,16.0,4342.18,851.41,0.0,0.0,0.0,0.0,0.0,0.0,6220.17
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master Lite v9,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2360.4,462.82,0.0,0.0,0.0,0.0,0.0,0.0,3381.27
+Gabinete,Gabinete Thermaltake v2 v5,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",77.0,3652.48,716.17,0.0,0.0,0.0,0.0,0.0,0.0,5232.18
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master v4 v6 v3,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,76.0,2550.87,500.17,0.0,0.0,0.0,0.0,0.0,0.0,3654.12
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Edition v3,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,95.0,3174.8,622.51,0.0,0.0,0.0,0.0,0.0,0.0,4547.9
+Armazenamento,Armazenamento Samsung SSD Edition v5 v2,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Placa-Mãe,Placa-Mãe Biostar Gamer v9,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,38.0,3346.88,656.25,0.0,0.0,0.0,0.0,0.0,0.0,4794.41
+Gabinete,Gabinete Thermaltake Plus v8,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",81.0,3232.68,633.86,0.0,0.0,0.0,0.0,0.0,0.0,4630.81
+Cooler/Resfriamento,Cooler/Resfriamento Noctua Plus v3,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,41.0,2096.11,411.0,0.0,0.0,0.0,0.0,0.0,0.0,3002.68
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 4070 Edition v7 v7,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,95.0,3174.8,622.51,0.0,0.0,0.0,0.0,0.0,0.0,4547.9
+Placa de Vídeo,Placa de Vídeo AMD RX 7900 Edition v8,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,29.0,3486.7,683.67,0.0,0.0,0.0,0.0,0.0,0.0,4994.7
+Mesa Gamer,Mesa Gamer Xtrike RGB v2,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Monitor,Monitor AOC Lite v7 v3,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,65.0,3003.2,588.86,0.0,0.0,0.0,0.0,0.0,0.0,4302.08
+Monitor,Monitor Philips Pro v5,Monitor com alta resolução e taxa de atualização para produtividade e jogos.,17.0,2387.13,468.06,0.0,0.0,0.0,0.0,0.0,0.0,3419.56
+Armazenamento,Armazenamento Samsung SSD Edition v5 v2 v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Armazenamento,Armazenamento Crucial SSD Gamer v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,68.0,654.38,128.31,0.0,0.0,0.0,0.0,0.0,0.0,937.4
+Placa-Mãe,Placa-Mãe Biostar Pro v9 v3,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Processador,Processador AMD Ryzen 9 Plus v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,42.0,1191.02,233.53,0.0,0.0,0.0,0.0,0.0,0.0,1706.14
+Placa de Rede,Placa de Rede Asus Plus v5 v4 v2,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Periféricos,Periféricos Mouse Logitech Gamer v9,Acessório essencial para gamers e profissionais que buscam conforto e performance.,18.0,500.12,98.06,0.0,0.0,0.0,0.0,0.0,0.0,716.42
+Fonte,Fonte Cooler Master Pro v5 v6,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,100.0,989.31,193.98,0.0,0.0,0.0,0.0,0.0,0.0,1417.19
+Periféricos,Periféricos Mouse Logitech Gamer v4 v4 v2,Acessório essencial para gamers e profissionais que buscam conforto e performance.,18.0,500.12,98.06,0.0,0.0,0.0,0.0,0.0,0.0,716.42
+Processador,Processador AMD Ryzen 5 Edition v3 v6,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,92.0,1566.26,307.11,0.0,0.0,0.0,0.0,0.0,0.0,2243.67
+Placa de Vídeo,Placa de Vídeo NVIDIA GTX 1650 Edition v9,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,55.0,4246.38,832.62,0.0,0.0,0.0,0.0,0.0,0.0,6082.94
+Placa-Mãe,Placa-Mãe Biostar Pro v9 v3 v7,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Mesa Gamer,Mesa Gamer Xtrike LED v8 v4,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Suporte de Monitor,Suporte de Monitor ELG Duplo v5,"Suporte ajustável para monitores, melhorando ergonomia e organização da mesa.",,,,,,,,,,
+Mesa Gamer,Mesa Gamer DT3 Sports Xtreme v7,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Memória RAM,Memória RAM Corsair Gamer v7 v2,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Placa de Vídeo,Placa de Vídeo AMD RX 6800 v8,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,97.0,345.2,67.69,0.0,0.0,0.0,0.0,0.0,0.0,494.5
+Cooler/Resfriamento,Cooler/Resfriamento Arctic Plus v9,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,557.49,109.31,0.0,0.0,0.0,0.0,0.0,0.0,798.6
+Cooler/Resfriamento,Cooler/Resfriamento Thermaltake v2,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,68.0,2279.95,447.05,0.0,0.0,0.0,0.0,0.0,0.0,3266.03
+Periféricos,Periféricos Microfone Fifine Plus v5,Acessório essencial para gamers e profissionais que buscam conforto e performance.,10.0,2403.57,471.29,0.0,0.0,0.0,0.0,0.0,0.0,3443.11
+Memória RAM,Memória RAM ADATA v3 v9,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,57.0,1522.84,298.6,0.0,0.0,0.0,0.0,0.0,0.0,2181.47
+Processador,Processador AMD Ryzen 9 Pro v6 v7 v8,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,16.0,4342.18,851.41,0.0,0.0,0.0,0.0,0.0,0.0,6220.17
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master Lite v9 v8,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2360.4,462.82,0.0,0.0,0.0,0.0,0.0,0.0,3381.27
+Placa de Rede,Placa de Rede D-Link v7 v7,Placa de rede de alta velocidade para conexões estáveis e rápidas.,42.0,1095.6,214.82,0.0,0.0,0.0,0.0,0.0,0.0,1569.45
+Console e Jogos,Console e Jogos PlayStation 5 Lite v2,Console de última geração para uma experiência imersiva em jogos.,10.0,2015.65,395.23,0.0,0.0,0.0,0.0,0.0,0.0,2887.42
+Armazenamento,Armazenamento Samsung SSD Edition v5 v2 v3 v9,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,50.0,2253.35,441.83,0.0,0.0,0.0,0.0,0.0,0.0,3227.92
+Processador,Processador Intel Core i9 Lite v5 v3 v6 v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Fonte,Fonte Thermaltake Gamer v7,Fonte de alimentação eficiente com proteção contra surtos e energia estável.,40.0,3095.73,607.01,0.0,0.0,0.0,0.0,0.0,0.0,4434.63
+Cooler/Resfriamento,Cooler/Resfriamento Cooler Master Lite v9 v5,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,69.0,2360.4,462.82,0.0,0.0,0.0,0.0,0.0,0.0,3381.27
+Mesa Gamer,Mesa Gamer Xtrike LED v9,"Mesa com estrutura reforçada, ideal para setups gamers com LEDs e ergonomia.",,,,,,,,,,
+Cooler/Resfriamento,Cooler/Resfriamento Deepcool Lite v3,Sistema de resfriamento eficaz para manter seu processador em temperatura ideal.,70.0,4871.3,955.16,0.0,0.0,0.0,0.0,0.0,0.0,6978.14
+Armazenamento,Armazenamento Kingston SSD Pro v4 v4,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,64.0,4795.27,940.25,0.0,0.0,0.0,0.0,0.0,0.0,6869.22
+Memória RAM,Memória RAM Corsair Gamer v8,Módulo de memória RAM de alta velocidade para multitarefa e desempenho aprimorado.,61.0,3279.17,642.97,0.0,0.0,0.0,0.0,0.0,0.0,4697.41
+Processador,Processador Intel Core i9 Pro v5 v7,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,64.0,4656.4,913.02,0.0,0.0,0.0,0.0,0.0,0.0,6670.29
+Console e Jogos,Console e Jogos PlayStation 5 v7,Console de última geração para uma experiência imersiva em jogos.,50.0,3545.22,695.14,0.0,0.0,0.0,0.0,0.0,0.0,5078.53
+Armazenamento,Armazenamento Kingston SSD Lite v2 v7,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,26.0,113.39,22.23,0.0,0.0,0.0,0.0,0.0,0.0,162.43
+Processador,Processador Intel Core i9 Pro v5 v7 v4,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,64.0,4656.4,913.02,0.0,0.0,0.0,0.0,0.0,0.0,6670.29
+Notebook,Notebook Acer Nitro v8 v3,"Notebook com boa performance para estudos, trabalho e entretenimento.",87.0,3971.5,778.73,0.0,0.0,0.0,0.0,0.0,0.0,5689.17
+Placa-Mãe,Placa-Mãe Biostar Pro v7,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,12.0,4355.18,853.96,0.0,0.0,0.0,0.0,0.0,0.0,6238.8
+Armazenamento,Armazenamento WD SSD Pro v7,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,20.0,3882.49,761.27,0.0,0.0,0.0,0.0,0.0,0.0,5561.67
+Armazenamento,Armazenamento WD SSD Gamer v2,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,29.0,941.57,184.62,0.0,0.0,0.0,0.0,0.0,0.0,1348.8
+Placa-Mãe,Placa-Mãe Biostar Edition v6 v9,Placa-mãe compatível com os principais processadores e suporte a múltiplos dispositivos.,47.0,3965.59,777.57,0.0,0.0,0.0,0.0,0.0,0.0,5680.71
+Gabinete,Gabinete NZXT Pro v8,"Gabinete com design moderno, excelente ventilação e compatibilidade com placas ATX.",42.0,1661.9,325.86,0.0,0.0,0.0,0.0,0.0,0.0,2380.67
+Placa de Rede,Placa de Rede Asus Plus v5 v8,Placa de rede de alta velocidade para conexões estáveis e rápidas.,46.0,158.83,31.14,0.0,0.0,0.0,0.0,0.0,0.0,227.52
+Periféricos,Periféricos Headset HyperX Pro v2,Acessório essencial para gamers e profissionais que buscam conforto e performance.,55.0,4158.67,815.43,0.0,0.0,0.0,0.0,0.0,0.0,5957.29
+Placa de Vídeo,Placa de Vídeo NVIDIA RTX 3060 Edition v9,GPU potente ideal para gamers e profissionais de edição de vídeo e 3D.,30.0,2253.85,441.93,0.0,0.0,0.0,0.0,0.0,0.0,3228.64
+Processador,Processador Intel Core i9 Lite v5 v4,Processador de alto desempenho ideal para tarefas exigentes e jogos modernos.,33.0,2642.48,518.13,0.0,0.0,0.0,0.0,0.0,0.0,3785.35
+Armazenamento,Armazenamento Kingston SSD Lite v5 v3 v4,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,26.0,113.39,22.23,0.0,0.0,0.0,0.0,0.0,0.0,162.43
+Armazenamento,Armazenamento Seagate HDD Gamer v3,Dispositivo de armazenamento rápido e confiável para guardar arquivos e jogos.,98.0,4494.32,881.24,0.0,0.0,0.0,0.0,0.0,0.0,6438.11
