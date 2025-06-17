@@ -233,3 +233,7 @@ else:
 
 st.header("Envie o csv nesse email abaixo: ")
 st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
+
+
+st.header("Envie o csv nesse email abaixo: ")
+st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
