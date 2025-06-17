@@ -210,7 +210,7 @@ if st.session_state.carrinho:
 
                     st.success("✅ Pedido finalizado com sucesso!")
                     st.header("Envie o csv nesse email abaixo: ")
-                    st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
+                    st.link_button("grupofornecedores2b@gmail.com", "grupofornecedores2b@gmail.com")
 
                     with open(caminho_arquivo, "rb") as file:
                         st.download_button(
