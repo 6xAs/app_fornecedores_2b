@@ -1,0 +1,6 @@
+Categoria,Nome do Produto,Descrição,Estoque Disponível,Preço Unitário (R$),Preço em USD ($),Imposto de Importação (%),ICMS (%),IPI (%),PIS (%),COFINS (%),Total de Impostos (%),Preço Final c/ Impostos (R$)
+Placa de Vídeo,NVIDIA GeForce RTX 3060,"Placa de vídeo com 12GB GDDR6, ideal para jogos em alta resolução.",10,1899.99,360.0,10.0,12.0,4.0,1.65,7.6,35.25,2568.66
+Processador,Intel Core i7-12700K,Processador de 12ª geração com 12 núcleos e desempenho elevado.,8,1799.5,340.0,10.0,12.0,4.0,1.65,7.6,35.25,2432.38
+Monitor,LG UltraGear 27'' 144Hz,Monitor gamer de 27 polegadas com taxa de atualização de 144Hz.,15,1499.0,290.0,10.0,12.0,4.0,1.65,7.6,35.25,2027.23
+Mesa Gamer,Mesa Gamer Redragon,"Mesa gamer com LED RGB, suporte para headset e copo.",20,999.9,200.0,10.0,12.0,4.0,1.65,7.6,35.25,1352.25
+Mouse Gamer,Logitech G502 Hero,"Mouse com sensor HERO 25K, 11 botões programáveis e RGB.",25,349.9,70.0,10.0,12.0,4.0,1.65,7.6,35.25,473.34
