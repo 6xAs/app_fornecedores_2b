@@ -9,8 +9,8 @@ produtos_path = "database/produtos/produtos_completos_formatado.csv"
 vendas_dir = "database/vendas"
 os.makedirs(vendas_dir, exist_ok=True)
 
-st.set_page_config(page_title="Fornecedor 2ºA", layout="wide")
-st.title("🛒 Sistema de Compras - Fornecedores 2ºA 🟠")
+st.set_page_config(page_title="Fornecedor 2ºB", layout="wide")
+st.title("🛒 Sistema de Compras - Fornecedores 2ºB ⚪")
 
 
 # Estado do carrinho
